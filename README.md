@@ -17,6 +17,8 @@ Indicator-Specific Visualization: After obtaining a global overview, it's possib
 
 **Temporal Analysis**: This section enables the separation of index performances by period and also facilitates the calculation of their rolling beta. It allows users to visualize the evolution of various indicators over defined sub-periods, enhancing analysis with the option to include graphical visualizations for each distinct period. This feature provides a deeper insight into the behavior of each index over time, offering valuable data for more informed decision-making.
 
+![My Image](images/P2S2.png)
+
 ### Part 3: Strategy Backtesting
 
 **Backtest Configuration**: The core of the tool is its backtesting system, where users can configure and test investment strategies with various adjustable parameters.
