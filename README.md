@@ -2,6 +2,8 @@
 
 This advanced VBA project provides a suite of tools integrated into Excel for collecting, analyzing, and backtesting market data. Featuring a user-friendly interface with several buttons, users can access a range of functionalities to obtain detailed statistics, visualize indicator trends, and execute customizable backtesting strategies.
 
+![My Image](images/ProjetGDPEcranAcceuil.png)
+
 ## Features
 
 ### Part 1: Destructive Statistics and Indicator Analysis
