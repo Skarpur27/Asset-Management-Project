@@ -23,6 +23,8 @@ Indicator-Specific Visualization: After obtaining a global overview, it's possib
 
 This section of the tool is dedicated to setting up and running backtests on investment strategies using a comprehensive and interactive configuration interface. Below is a breakdown of the adjustable parameters that users can manipulate to tailor their backtesting scenarios:
 
+![My Image](images/P3S1.png)
+
 **Investment Sector Selection**: This feature allows users to precisely select the investment sector or subsector for conducting zero-investment portfolio analysis. The dropdown menu provides a list of diverse market segments, including but not limited to:
 
 Each sector or subsector listed comes with an associated number, possibly indicating the number of available securities or data points within that category. Users can select one or multiple sectors to focus their backtesting efforts on particular areas of the market. This granularity enables a tailored analysis that can reflect the performance of specific industries and their unique characteristics, giving users the flexibility to simulate investment strategies across different market environments.
