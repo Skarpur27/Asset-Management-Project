@@ -9,7 +9,7 @@ This advanced VBA project provides a suite of tools integrated into Excel for co
 **Macro Launch**: A button initiates a macro that generates destructive statistics, offering an initial overview of the data count per indicator.
 Indicator-Specific Visualization: After obtaining a global overview, it's possible to select specific indicators for more detailed analysis. An image of the output is displayed for each chosen indicator.
 
-![My Image](images/S1P2.jpg)
+![My Image](images/P1S2.jpg)
 
 ### Part 2: Tracking Indicator Evolution
 
