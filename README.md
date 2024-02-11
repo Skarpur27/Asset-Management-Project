@@ -15,7 +15,7 @@ Indicator-Specific Visualization: After obtaining a global overview, it's possib
 
 ### Part 2: Tracking Indicator Evolution
 
-**Temporal Analysis**: This section allows for the visualization of the evolution of various indicators over defined sub-periods, with the option to include graphical visualizations for each period.
+**Temporal Analysis**: This section enables the separation of index performances by period and also facilitates the calculation of their rolling beta. It allows users to visualize the evolution of various indicators over defined sub-periods, enhancing analysis with the option to include graphical visualizations for each distinct period. This feature provides a deeper insight into the behavior of each index over time, offering valuable data for more informed decision-making.
 
 ### Part 3: Strategy Backtesting
 
